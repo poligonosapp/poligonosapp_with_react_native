@@ -1,0 +1,1 @@
+# poligonosapp_with_react_native
